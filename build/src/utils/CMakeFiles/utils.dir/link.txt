@@ -1,0 +1,2 @@
+E:\cs\mys\mingw64\bin\llvm-ar.exe qc libutils.a CMakeFiles/utils.dir/Laplace.cpp.obj CMakeFiles/utils.dir/MurmurHash3.cpp.obj
+E:\cs\mys\mingw64\bin\llvm-ranlib.exe libutils.a

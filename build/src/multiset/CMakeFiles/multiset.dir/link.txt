@@ -1,0 +1,2 @@
+E:\cs\mys\mingw64\bin\llvm-ar.exe qc libmultiset.a CMakeFiles/multiset.dir/CMSkt.cpp.obj CMakeFiles/multiset.dir/rSkt.cpp.obj CMakeFiles/multiset.dir/vSkt.cpp.obj CMakeFiles/multiset.dir/multiset_test.cpp.obj CMakeFiles/multiset.dir/AMSkt.cpp.obj
+E:\cs\mys\mingw64\bin\llvm-ranlib.exe libmultiset.a

@@ -1,0 +1,2 @@
+E:\cs\mys\mingw64\bin\llvm-ar.exe qc libsingleset.a CMakeFiles/singleset.dir/FM.cpp.obj CMakeFiles/singleset.dir/FMS.cpp.obj CMakeFiles/singleset.dir/LLC.cpp.obj CMakeFiles/singleset.dir/singleset_test.cpp.obj
+E:\cs\mys\mingw64\bin\llvm-ranlib.exe libsingleset.a

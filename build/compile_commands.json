@@ -1,0 +1,74 @@
+[
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe  @CMakeFiles/AMSkt.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\AMSkt.dir\\main.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\main.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/main.cpp",
+  "output": "CMakeFiles/AMSkt.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/singleset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\singleset.dir\\FM.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\singleset\\FM.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/singleset/FM.cpp",
+  "output": "src/singleset/CMakeFiles/singleset.dir/FM.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/singleset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\singleset.dir\\FMS.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\singleset\\FMS.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/singleset/FMS.cpp",
+  "output": "src/singleset/CMakeFiles/singleset.dir/FMS.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/singleset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\singleset.dir\\LLC.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\singleset\\LLC.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/singleset/LLC.cpp",
+  "output": "src/singleset/CMakeFiles/singleset.dir/LLC.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/singleset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\singleset.dir\\singleset_test.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\singleset\\singleset_test.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/singleset/singleset_test.cpp",
+  "output": "src/singleset/CMakeFiles/singleset.dir/singleset_test.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/multiset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\multiset.dir\\CMSkt.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\multiset\\CMSkt.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/multiset/CMSkt.cpp",
+  "output": "src/multiset/CMakeFiles/multiset.dir/CMSkt.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/multiset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\multiset.dir\\rSkt.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\multiset\\rSkt.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/multiset/rSkt.cpp",
+  "output": "src/multiset/CMakeFiles/multiset.dir/rSkt.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/multiset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\multiset.dir\\vSkt.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\multiset\\vSkt.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/multiset/vSkt.cpp",
+  "output": "src/multiset/CMakeFiles/multiset.dir/vSkt.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/multiset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\multiset.dir\\multiset_test.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\multiset\\multiset_test.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/multiset/multiset_test.cpp",
+  "output": "src/multiset/CMakeFiles/multiset.dir/multiset_test.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/multiset",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\multiset.dir\\AMSkt.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\multiset\\AMSkt.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/multiset/AMSkt.cpp",
+  "output": "src/multiset/CMakeFiles/multiset.dir/AMSkt.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/utils",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\utils.dir\\Laplace.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\utils\\Laplace.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/utils/Laplace.cpp",
+  "output": "src/utils/CMakeFiles/utils.dir/Laplace.cpp.obj"
+},
+{
+  "directory": "E:/cs/research-related/AMSkt_cpp-main/build/src/utils",
+  "command": "E:\\cs\\mys\\mingw64\\bin\\clang++.exe   -g -std=gnu++11 -o CMakeFiles\\utils.dir\\MurmurHash3.cpp.obj -c E:\\cs\\research-related\\AMSkt_cpp-main\\AMSkt_cpp-main\\src\\utils\\MurmurHash3.cpp",
+  "file": "E:/cs/research-related/AMSkt_cpp-main/AMSkt_cpp-main/src/utils/MurmurHash3.cpp",
+  "output": "src/utils/CMakeFiles/utils.dir/MurmurHash3.cpp.obj"
+}
+]
