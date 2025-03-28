@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\AMSkt.dir/objects.a
-E:\cs\mys\mingw64\bin\llvm-ar.exe qc CMakeFiles\AMSkt.dir/objects.a @CMakeFiles\AMSkt.dir\objects1.rsp
-E:\cs\mys\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\AMSkt.dir/objects.a -Wl,--no-whole-archive -o AMSkt.exe -Wl,--out-implib,libAMSkt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AMSkt.dir\linkLibs.rsp
