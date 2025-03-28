@@ -5,11 +5,13 @@ Our source code implements the AMSkt Sketch algorithm along with the correspondi
 
 ```bash
 cd SIGMOD2025_cpp-main/
-make 
+cmake -S . -B build -G "MinGW Makefiles"
+cd build
+mingw32-make
 ```
 ## To run AMSkt
 ```bash
-./xxx
+./AMSkt.exe
 ```
 #### parameters for our method and baseline
 | Parameters     | Description                                                  |
