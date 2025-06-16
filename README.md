@@ -4,7 +4,7 @@ Our source code implements the AMSkt Sketch algorithm along with the correspondi
 ## To compile AMSkt
 
 ```bash
-cd SIGMOD2025_cpp-main/
+cd AMSkt_cpp-main/
 cmake -S . -B build -G "MinGW Makefiles"
 cd build
 mingw32-make
